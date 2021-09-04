@@ -1,0 +1,39 @@
+*{
+    margin: 40px;
+}
+body{
+    margin: 30px;
+}
+.para{
+    margin: 30px;
+    background-color: azure;
+}
+.genda{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    padding: 0px 20px;
+    background-color: black;
+    color: blanchedalmond;
+}
+.nav-bar ul, li{
+    display: flex;
+    margin: 0px 20px 40px 40px;
+    padding: 10px 40px;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    color: darkblue;
+
+}
+.nav-bar{
+    background-color: chartreuse;
+}
+a:hover{
+    text-decoration: none;
+    color: hotpink;
+}
+.gender{
+    display: flex;
+}
